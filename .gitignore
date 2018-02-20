@@ -18,4 +18,8 @@ face_generation/data/
 
 # Big files
 *.pickle
+<<<<<<< HEAD
 *.zip
+=======
+*.zip
+>>>>>>> 48ace6a... WIP
