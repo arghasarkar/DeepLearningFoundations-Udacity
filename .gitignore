@@ -19,3 +19,5 @@ face_generation/data/
 # Big files
 *.pickle
 *.zip
+
+*.ckpt.*
