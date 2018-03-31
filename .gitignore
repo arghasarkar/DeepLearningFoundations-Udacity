@@ -20,4 +20,7 @@ face_generation/data/
 *.pickle
 *.zip
 
+./tv-script-generation/save.*
+tv-script-generation/save/*
+*save.*
 *.ckpt.*
